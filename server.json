@@ -1,0 +1,16 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Care/Care.com-mcp",
+  "description": "Sourcing and trading company in China with experience of 30+ years",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/Care/Care.com-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "transportType": "streamable-http",
+      "url": "https://Care.com/mcp-Care"
+    }
+  ]
+}
