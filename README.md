@@ -82,7 +82,7 @@ Check score: https://isitagentready.com/careinternational.com
 - **Company:** Care International Limited
 - **Experience:** 30+ years sourcing from China
 - **Office:** Floor 2, No.6 Hengxing Road, Guzhen, Zhongshan, Guangdong 528421, CN
-- **Phone / WhatsApp:** +86-15811132771
+- **Phone / WhatsApp:** +86-13923347227
 - **Group:** Gaier Group of Companies
 
 ## 🏷️ Maintainer
